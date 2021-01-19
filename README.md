@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas Casarotti">
+<img src="https://cdn.pixabay.com/photo/2018/02/22/18/21/laptop-3173613_960_720.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas Casarotti">
 
 <h1 align="center">Lucas Casarotti 👨‍💻</h1><br>
 Meu nome é Lucas Casarottti 😀.<br><br>
