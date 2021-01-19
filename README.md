@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas Casarotti">
 
-<h1>Lucas Casarotti 👨‍💻</h1><br>
+<h1 aling="center">Lucas Casarotti 👨‍💻</h1><br>
 Meu nome é Lucas Casarottti 😀.<br><br>
 Sou desenvolvedor Web <b>Front-End</b> e <b>Back-End</b> 💼💻.<br><br>
 Formado em Tecnologia em Desenvolvimento de Sistemas pela universidade UniSalesiano Centro Universitário Católico Salesiano Auxilium 🎓👨‍🎓.<br><br>
