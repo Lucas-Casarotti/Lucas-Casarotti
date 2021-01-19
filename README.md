@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas Casarotti">
 
 <h1 align="center">Lucas Casarotti 👨‍💻</h1><br>
-<p>Olá, meu nome é Lucas Casarottti 😀.</p><br>
-<p>Sou desenvolvedor Web <b>Front-End</b> e <b>Back-End</b> 💼💻.<br>
-Formado em Tecnologia em Desenvolvimento de Sistemas pela universidade UniSalesiano Centro Universitário Católico Salesiano Auxilium 🎓👨‍🎓.</p><br>
+<p>Olá, meu nome é Lucas Casarottti 😀.</p>
+<p>Sou desenvolvedor Web <b>Front-End</b> e <b>Back-End</b> 💼💻.</p><br>
+<p>Formado em Tecnologia em Desenvolvimento de Sistemas pela universidade UniSalesiano Centro Universitário Católico Salesiano Auxilium 🎓👨‍🎓.</p><br>
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-casarotti-655680172/:" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-casarotti-655680172/" /></a>
