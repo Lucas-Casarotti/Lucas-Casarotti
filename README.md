@@ -2,7 +2,7 @@
 
 <h1 align="center">Lucas Casarotti 👨‍💻</h1><br>
 <p>😀 Olá, meu nome é Lucas Casarottti.</p>
-<p>💻 Sou desenvolvedor <b>Front-End</b> e <b>Back-End</b>.</p>
+<p>💻 Sou Desenvolvedor Web <b>Front-End</b> e <b>Back-End</b>.</p>
 <p>🎓 Tecnólogo em desenvolvimento de sistemas – Centro Universitário Católico Salesiano Auxilium. magna cum laude.</p>
 <p>🎓 Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã</p> 
 <p>🚀 Habilidades: HTML5, CSS3, JavaScript, Bootstrap, PHP, Banco de dados MySQL.</p>
