@@ -1,4 +1,4 @@
-<img src="https://png.pngtree.com/png-vector/20190611/ourlarge/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496210.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas Casarotti">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas Casarotti">
 
 <h1 align="center">Lucas Casarotti 👨‍💻</h1><br>
 <p>😀 Olá, meu nome é Lucas Casarottti.</p>
