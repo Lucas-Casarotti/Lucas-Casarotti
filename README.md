@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas Casarotti">
+<img src="https://image.freepik.com/free-vector/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_74855-13038.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas Casarotti">
 
 <h1 align="center">Lucas Casarotti 👨‍💻</h1><br>
 <p>😀 Olá, meu nome é Lucas Casarottti.</p>
