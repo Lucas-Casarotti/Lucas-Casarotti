@@ -4,7 +4,7 @@
 <p>💻 Sou Desenvolvedor Web <b>Front-End</b> e <b>Back-End</b>.</p>
 <p>🎓 Tecnólogo em desenvolvimento de sistemas – Centro Universitário Católico Salesiano Auxilium</p>
 <p>🎓 Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã</p> 
-<p>🚀 Habilidades: HTML5, CSS3, JavaScript, Bootstrap, PHP, PHP OO, ASP.NET, Banco de dados SQL Server, Banco de dados MySQL.</p>
+<p>🚀 Habilidades: HTML5, CSS3, JavaScript, Bootstrap, PHP, PHP OO, .NET Framework, Banco de dados SQL Server, Banco de dados MySQL.</p>
 
 
 <p align="left">
