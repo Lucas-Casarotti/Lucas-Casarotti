@@ -23,3 +23,4 @@
 </div>
 
 
+![](https://github.com/Lucas-Casarotti/snk/raw/output/github-contribution-grid-snake.svg)
