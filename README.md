@@ -1,4 +1,3 @@
-
 <img src="https://github.com/Lucas-Casarotti/Lucas-Casarotti/blob/main/ilustration.png" min-width="400" max-width="400" width="400" align="right" alt="Lucas Casarotti">
 <h1 align="center">Lucas Casarotti 👨‍💻</h1>
 <h2>Olá, meu nome é Lucas Casarottti.</h2>
@@ -18,8 +17,8 @@
 
 <div>
   <a href="https://github.com/Lucas-Casarotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Casarotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Casarotti&layout=compact&langs_count=7&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Casarotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Casarotti&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 
