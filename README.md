@@ -23,3 +23,4 @@
 </div>
 
   
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Casarotti&repo=Lucas-Casarotti&theme=dark)](https://github.com/Lucas-Casarotti/Lucas-Casarotti)
