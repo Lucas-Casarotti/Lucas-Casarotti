@@ -23,4 +23,4 @@
 </div>
 
 
-![](https://github.com/Lucas-Casarotti/Lucas-Casarotti/raw/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Lucas-Casarotti/Lucas-Casarotti/output/github-contribution-grid-snake.svg)
