@@ -19,7 +19,6 @@
   <a href="https://github.com/Lucas-Casarotti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Casarotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Casarotti&layout=compact&langs_count=7&theme=dark" />
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Casarotti&show_icons=true&theme=dark)
 </div>
 
 ![](https://raw.githubusercontent.com/Lucas-Casarotti/Lucas-Casarotti/output/github-contribution-grid-snake.svg)
