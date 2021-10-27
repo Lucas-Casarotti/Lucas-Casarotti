@@ -8,7 +8,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/Lucas-Casarotti/github-readme-stats"
+      "destination": "https://github-readme-stats.vercel.app/api?username=Lucas-Casarotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
     }
   ]
 }
