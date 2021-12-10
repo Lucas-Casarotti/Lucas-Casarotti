@@ -15,5 +15,10 @@
   <a href="https://www.facebook.com/lucas.casarotti.1/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lucas.casarotti.1/"/></a>
 </p>  
+<div>
+  <a href="https://github.com/Lucas-Casarotti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Casarotti&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Casarotti&layout=compact&langs_count=7&theme=dark" />
+</div>
 
 
