@@ -7,17 +7,30 @@
 <p>🎓 Tecnólogo em desenvolvimento de sistemas – Centro Universitário Católico Salesiano Auxilium </p>
 <p>🎓 Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã</p> 
 <p>🚀 Experiência:</p>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Bootstrap</li>
-  <li>C#</li>
-  <li>.NET</li>
-  <li>ASP.NET</li>
-  <li>SQL Server</li>
-    
-</ul>
-
+<div style="display:flex; Justify-content:space-between">
+  <div>
+    <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Bootstrap</li>
+    <li>C#</li>
+    <li>.NET</li>
+    <li>ASP.NET</li>
+    <li>SQL Server</li>
+  </ul>
+  </div>
+  <div>
+    <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Bootstrap</li>
+    <li>C#</li>
+    <li>.NET</li>
+    <li>ASP.NET</li>
+    <li>SQL Server</li>
+  </ul>
+  </div>
+</div>
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-casarotti-655680172/:" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-casarotti-655680172/" /></a>
