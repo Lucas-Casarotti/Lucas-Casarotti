@@ -9,7 +9,7 @@
   <li>Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã</li>
 </ul>
 <p>🚀 Experiência:</p>
-<div style="display:flex; justify-content:space-between;">
+<div style="display:flex; justify-content: center;">
   <div>
     <ul>
     <li>HTML5</li>
@@ -21,7 +21,7 @@
     <li>SQL Server</li>
   </ul>
   </div>
-  <div align="right">
+  <div>
     <ul>
     <li>HTML5</li>
     <li>CSS3</li>
