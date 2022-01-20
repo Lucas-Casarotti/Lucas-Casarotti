@@ -6,7 +6,6 @@
 <p>🎓 Formação: </p>
 <p>🎓 Tecnólogo em desenvolvimento de sistemas – Centro Universitário Católico Salesiano Auxilium </p>
 <p>🎓 Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã</p> 
-<br>
 <p>🚀 Experiência:</p>
 <ul>
   <li>HTML5</li>
