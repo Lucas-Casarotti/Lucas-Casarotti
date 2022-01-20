@@ -12,7 +12,8 @@
 <div style="display:flex; justify-content: center;">
   <div>
     <ul>
-    <li>HTML5</li>
+      <li>Front-end</li>
+    <p>HTML5<p>
     <li>CSS3</li>
     <li>Bootstrap</li>
     <li>C#</li>
@@ -20,18 +21,6 @@
     <li>ASP.NET</li>
     <li>SQL Server</li>
   </ul>
-  </div>
-  <div align="center">
-    <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>Bootstrap</li>
-    <li>C#</li>
-    <li>.NET</li>
-    <li>ASP.NET</li>
-    <li>SQL Server</li>
-  </ul>
-  </div>
 </div>
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-casarotti-655680172/:" alt="Linkedin">
