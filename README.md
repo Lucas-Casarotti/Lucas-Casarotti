@@ -15,7 +15,7 @@
 </ul>   
 <ul>
 <li>Back-end</li>
-<p>C#, NET, ASP.NET, SQL Server</p>
+<p>C#, .NET, ASP.NET, SQL Server</p>
 </ul>   
 
 <p align="left">
