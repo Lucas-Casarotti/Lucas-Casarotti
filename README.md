@@ -13,13 +13,14 @@
   <div>
     <ul>
       <li>Front-end</li>
-    <p>HTML5<p>
-    <li>CSS3</li>
-    <li>Bootstrap</li>
-    <li>C#</li>
-    <li>.NET</li>
-    <li>ASP.NET</li>
-    <li>SQL Server</li>
+      <p>HTML5</p>
+      <p>CSS3</p>
+      <p>Bootstrap</p>
+      <li>Back-end</li>
+      <p>C#</p>
+      <p>.NET</p>
+      <p>ASP.NET</p>
+      <p>SQL Server</p>
   </ul>
 </div>
 <p align="left">
