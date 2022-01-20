@@ -3,10 +3,21 @@
 <img src="https://github.com/Lucas-Casarotti/Lucas-Casarotti/blob/main/ilustration.png" min-width="400" max-width="400" width="400" align="right" alt="Lucas Casarotti">
 <h1 align="center">Lucas Casarotti 👨‍💻</h1>
 <h2>Olá, meu nome é Lucas Casarottti.</h2>
-<p>💻 Sou desenvolvedor web <b>front-end</b> e <b>back-end</b>.</p>
+<p>🎓 Formação: </p>
 <p>🎓 Tecnólogo em desenvolvimento de sistemas – Centro Universitário Católico Salesiano Auxilium </p>
 <p>🎓 Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã</p> 
-<p>🚀 Habilidades: HTML5, CSS3, JavaScript, Bootstrap, PHP, PHP OO, C#, .NET, ASP.NET, Banco de dados SQL Server, Banco de dados MySQL.</p>
+<br>
+<p>🚀 Experiência:</p>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Bootstrap</li>
+  <li>C#</li>
+  <li>.NET</li>
+  <li>ASP.NET</li>
+  <li>SQL Server</li>
+    
+</ul>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-casarotti-655680172/:" alt="Linkedin">
