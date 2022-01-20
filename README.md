@@ -13,8 +13,8 @@
   <div>
     <ul>
       <li>Front-end</li>
-      <p>HTML5</p>
-      <p>CSS3</p>
+      HTML5
+      CSS3
       <p>Bootstrap</p>
       <li>Back-end</li>
       <p>C#</p>
