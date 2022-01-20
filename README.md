@@ -4,8 +4,10 @@
 <h1 align="center">Lucas Casarotti 👨‍💻</h1>
 <h2>Olá, meu nome é Lucas Casarottti.</h2>
 <p>🎓 Formação: </p>
-<p> - Tecnólogo em desenvolvimento de sistemas – Centro Universitário Católico Salesiano Auxilium </p>
-<p> - Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã</p> 
+<ul>
+  <li>Tecnólogo em desenvolvimento de sistemas – Centro Universitário Católico Salesiano Auxilium</li>
+  <li>Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã</li>
+</ul>
 <p>🚀 Experiência:</p>
 <div style="display:flex; justify-content:space-between;">
   <div>
