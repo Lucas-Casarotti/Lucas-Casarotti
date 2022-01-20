@@ -9,14 +9,14 @@
   <li>Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã</li>
 </ul>
 <p>🚀 Experiência:</p>
-  <div>
-    <ul>
-      <li>Front-end</li>
-      <p>HTML5 ,CSS3, Bootstrap</p>
-   
-      <li>Back-end</li>
-      <p>C#, NET, ASP.NET, SQL Server</p>
-  </ul>
+<ul>
+   <li>Front-end</li>
+   <p>HTML5 ,CSS3, Bootstrap</p>
+</ul>   
+<ul>
+<li>Back-end</li>
+<p>C#, NET, ASP.NET, SQL Server</p>
+</ul>   
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-casarotti-655680172/:" alt="Linkedin">
