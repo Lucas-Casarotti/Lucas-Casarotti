@@ -21,7 +21,7 @@
     <li>SQL Server</li>
   </ul>
   </div>
-  <div>
+  <div align="center">
     <ul>
     <li>HTML5</li>
     <li>CSS3</li>
