@@ -13,8 +13,7 @@
     <ul>
       <li>Front-end</li>
       <p>HTML5 ,CSS3, Bootstrap</p>
-    <li>Front-end</li>
-      <p>HTML5 ,CSS3, Bootstrap</p>
+   
       <li>Back-end</li>
       <p>C#, NET, ASP.NET, SQL Server</p>
   </ul>
