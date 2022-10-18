@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=624d9f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Casarotti)](https://git.io/typing-svg)
 
 <img src="https://github.com/Lucas-Casarotti/Lucas-Casarotti/blob/main/ilustration.png" min-width="400" max-width="400" width="400" align="right" alt="Lucas Casarotti" />
-<h1 align="center">Lucas Casarotti 👨‍💻</h1>
-<h2>Olá, meu nome é Lucas Casarottti.</h2>
+<h1 align="center"></h1>
 <p>🎓 Formação</p>
 <ul>
   <li>Tecnólogo em desenvolvimento de sistemas</li>
