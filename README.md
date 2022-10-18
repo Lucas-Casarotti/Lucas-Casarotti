@@ -1,6 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=624d9f&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=624d9f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Casarotti)](https://git.io/typing-svg)
 
-
-<img src="https://github.com/Lucas-Casarotti/Lucas-Casarotti/blob/main/ilustration.png" min-width="400" max-width="400" width="400" align="right" alt="Lucas Casarotti">
+<img src="https://github.com/Lucas-Casarotti/Lucas-Casarotti/blob/main/ilustration.png" min-width="400" max-width="400" width="400" align="right" alt="Lucas Casarotti" />
 <h1 align="center">Lucas Casarotti 👨‍💻</h1>
 <h2>Olá, meu nome é Lucas Casarottti.</h2>
 <p>🎓 Formação</p>
@@ -28,8 +30,8 @@
 <br>
 <div>
   <a href="https://github.com/Lucas-Casarotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Casarotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Casarotti&layout=compact&langs_count=7&theme=dark"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Casarotti&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Casarotti&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 <br>
 <p align="left">
