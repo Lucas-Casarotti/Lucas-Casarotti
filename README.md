@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Lucas-Casarotti/Lucas-Casarotti/blob/main/ilustration.png" min-width="400" max-width="400" width="400" align="right" alt="Lucas Casarotti" />
 <h1 align="center"></h1>
-<p>🎓 Formação</p>
+<p>🎓 Formações</p>
 <ul>
   <li>Tecnólogo em desenvolvimento de sistemas</li>
   <li>Técnico em informática para internet </li>
