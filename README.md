@@ -27,11 +27,6 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 <br>
-<div>
-  <a href="https://github.com/Lucas-Casarotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Casarotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Casarotti&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <br>
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-casarotti-655680172/:" alt="Linkedin">
