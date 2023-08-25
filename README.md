@@ -7,7 +7,7 @@
 <p>🎓 Formações</p>
 <ul>
   <li>Tecnologia em desenvolvimento de sistemas – Centro Universitário Católico Salesiano Auxilium</li>
-  <li>Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupãt </li>
+  <li>Técnico em informática para internet – Etec Prof. Massuyuki Kawano Tupã </li>
 </ul>
 <p>📝 Habilidades</p>
 <ul>
