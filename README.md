@@ -14,10 +14,10 @@
   <li>Javascript</li>
 </ul>  
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/html.png">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/css-3.png">
+  <img align="center" alt="Csharp" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/c-sharp.png">
+  <img align="center" alt="Csharp" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/SQL.png">
 </div>
 <br>
 <br>
