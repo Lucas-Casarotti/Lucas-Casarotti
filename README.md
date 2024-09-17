@@ -5,14 +5,11 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>Javascript</li>
   <li>.NET C#</li>
   <li>SQL Server</li>
   <li>Git e GitHub / Gitlab</li>
-</ul>  
-<p>📚 Estudando</p>
-<ul>
-  <li>Javascript</li>
-</ul>  
+</ul>    
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/html.png">
   <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/css-3.png">
