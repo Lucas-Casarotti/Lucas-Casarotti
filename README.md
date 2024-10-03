@@ -13,6 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/html.png">
   <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/css-3.png">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/javascript.png">
   <img align="center" alt="Csharp" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/c-sharp.png">
   <img align="center" alt="Csharp" height="40" width="40" src="https://github.com/Lucas-Casarotti/Images/blob/main/SQL.png">
 </div>
