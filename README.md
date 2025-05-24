@@ -5,7 +5,7 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>Javascript</li>
+  <li>JavaScript</li>
   <li>.NET C#</li>
   <li>SQL Server</li>
   <li>Git e GitHub / Gitlab</li>
