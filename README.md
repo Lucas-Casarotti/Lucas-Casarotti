@@ -9,10 +9,12 @@ Sou desenvolvedor <strong>.NET</strong>, com experiência na criação e manuten
 <h2>💻 Tecnologias que utilizo</h2>
 
 <ul>
-  <li><strong>Front-end:</strong> HTML5, CSS3, JavaScript</li>
-  <li><strong>Back-end:</strong> C#, ASP.NET Core</li>
-  <li><strong>Banco de Dados:</strong> SQL Server</li>
-  <li><strong>Controle de versão:</strong> Git, GitHub, GitLab</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>ASP.NET Core</li>
+  <li>SQL Server</li>
+  <li>Git e GitHub / Gitlab</li>
 </ul>
 
 
