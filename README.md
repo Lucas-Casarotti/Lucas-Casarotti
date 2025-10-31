@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Lucas Casarotti</h1>
 
 <p align="left">
-Sou desenvolvedor <strong>.NET</strong>, com experiência na criação e manutenção de APIs RESTful e Aplicações Web.
+Sou desenvolvedor <strong>.NET</strong>, com experiência na criação e manutenção de Aplicações Web e APIs RESTful.
 </p>
 
 ---
