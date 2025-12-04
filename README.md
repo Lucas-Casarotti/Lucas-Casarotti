@@ -1,17 +1,18 @@
 <h1 align="center">Olá, meu nome é Lucas Casarotti</h1>
 
 <p align="left">
-Sou desenvolvedor <strong>.NET</strong>, com experiência na criação e manutenção de Aplicações Web e APIs RESTful.
+Sou desenvolvedor .NET com experiência em criação e manutenção de aplicações web e APIs REST utilizando ASP.NET Core, C# e SQL Server.
 </p>
 
 ---
 
-<h2>💻 Tecnologias que utilizo</h2>
+<h2>💻 Habilidades</h2>
 
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
+  <li>C#</li>
   <li>ASP.NET Core</li>
   <li>SQL Server</li>
   <li>Git e GitHub / Gitlab</li>
